@@ -59,6 +59,12 @@ Each directory in the repository corresponds to a specific optimization problem.
 - **Description**: Optimizes routing paths in a network to minimize the total travel distance or cost.
 - [More details](./routing_problem)
 
+### 10. Sudoku_Solver
+- **Solver Used**: CBC
+- **Description**: Utilizes Mixed-Integer Programming (MIP) techniques to fill the Sudoku grid, following standard rules.
+- [More details](./sudoku_solver)
+
+
 ## Installation and Setup
 
 To run the projects in this repository, you need to install Julia and the necessary packages. Follow these steps:
